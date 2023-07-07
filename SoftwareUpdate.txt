@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+YOLOv8 INT8 TFLite Inference Example (#7317)
