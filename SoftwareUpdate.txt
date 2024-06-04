@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add simple-utilities.md Docs page (#8269)
